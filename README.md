@@ -12,7 +12,7 @@ I'm Nicole villamil and I'm a chemical engineering student at the **EAN Universi
 2. I like to listen to music while I study
 3. I like order
 
-###💬 Ask me about:
+### Ask me about:
 1. General chemistry and physics concepts
 2. Use of applications in the aspen plus program
 
